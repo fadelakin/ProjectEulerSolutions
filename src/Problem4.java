@@ -1,3 +1,7 @@
+// Fisher Adelakin
+// Project Euler: Problem 4
+// Palindromic stuff
+
 public class Problem4 {
 	
 	public static int reverse(int num) {
