@@ -1,3 +1,5 @@
+// Project Euler Problem 8
+
 public class Problem8 {
 	
 	public static int checkInt(String s)
