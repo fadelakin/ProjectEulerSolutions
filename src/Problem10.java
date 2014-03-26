@@ -1,3 +1,5 @@
+// Fisher Adelakin
+// Project Euler Problem 10
 
 public class Problem10 {
 
